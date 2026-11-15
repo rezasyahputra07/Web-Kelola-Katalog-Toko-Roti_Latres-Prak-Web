@@ -1,6 +1,6 @@
 # Website Katalog Kue - Toko Roti
 
-Aplikasi web sederhana berbasis **PHP**, **MySQL**,**HTML** dan **Bootstrap** untuk mengelola katalog kue oleh admin toko (Latihan Responsi Praktikum Web).
+Aplikasi web sederhana berbasis **PHP**, **MySQL**, **HTML** dan **Bootstrap** untuk mengelola katalog kue oleh admin toko (Latihan Responsi Praktikum Web).
 
 ## Fitur Utama
 * **Autentikasi & Session**: Register (`password_hash`), Login (`password_verify`), proteksi halaman dengan `$_SESSION`, dan Logout.
